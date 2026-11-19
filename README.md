@@ -187,23 +187,19 @@ global-solution-citizentech/
 │   ├── ocorrencias_iniciais.csv
 │   └── historico_inicial.csv
 ├── docs/
-│   ├── decisoes_tecnicas.md
 │   ├── indicadores_iniciais.md
-│   ├── requisitos_atendidos.md
-│   ├── testes_funcionais.md
+│   ├── decisoes_tecnicas
 │   ├── uso_ia.md
 │   └── saida_exemplo.txt
 └── tests/
     └── test_sistema.py
 ```
 
-O projeto é **independente**. Para integrá-lo a um portfólio organizado como o [modelo oficial da FIAP](https://github.com/equipe1ccon/FIAP-PORTFOLIO-1CCON/tree/master), ele pode ser colocado em `1CC/GLOBAL-SOLUTION-2/neighborhood-action-dashboard/`; nesse caso, os comandos devem ser executados **dentro da pasta do projeto**.
-
 Os arquivos `data/estado_local.csv` e `data/historico_local.csv` são criados automaticamente ao alterar o sistema, não entram no Git e não substituem os dados de demonstração versionados.
 
 ## 11. Testes, documentação e uso de IA
 
-Execute `python -m unittest discover -s tests -v`. Os **20 testes automatizados** cobrem a leitura, os cálculos, os filtros, o tratamento de inconsistências, as transições, as estruturas e a persistência. Detalhes em [`docs/testes_funcionais.md`](docs/testes_funcionais.md).
+Execute `python -m unittest discover -s tests -v`. Os **20 testes automatizados** cobrem a leitura, os cálculos, os filtros, o tratamento de inconsistências, as transições, as estruturas e a persistência.
 
 A participação de IA na elaboração da solução e dos testes está explicitada em [`docs/uso_ia.md`](docs/uso_ia.md). A versão final do trabalho exige que o estudante revise, compreenda, demonstre e consiga justificar o código.
 
