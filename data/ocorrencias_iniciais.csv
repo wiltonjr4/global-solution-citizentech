@@ -1,0 +1,14 @@
+id;bairro;categoria;descricao;localidade;dia_abertura;status;dia_conclusao
+001;Vila Esperança;iluminacao;Poste sem iluminação na praça;Praça das Flores;1;em_analise;
+002;Vila Esperança;acessibilidade;Rampa com superfície danificada;Centro Comunitário;2;concluida;15
+003;Jardim Horizonte;limpeza;Acúmulo de resíduos em via coletiva;Parque do Sol;3;aberta;
+004;Jardim Horizonte;conservacao;Banco de madeira danificado;Praça do Ipê;4;concluida;20
+005;Vila Esperança;iluminacao;Luminária apagada em passagem pública;Passarela Norte;5;aberta;
+006;Jardim Horizonte;acessibilidade;Piso tátil interrompido no passeio;Praça da Leitura;6;em_analise;
+007;Vila Esperança;limpeza;Lixeiras coletivas com tampa quebrada;Alameda Cultural;7;em_analise;
+008;Jardim Horizonte;conservacao;Grade solta em área de lazer;Parque da Colina;8;aberta;
+009;Vila Esperança;iluminacao;Iluminação fraca em pista de caminhada;Pista Verde;9;concluida;24
+010;Jardim Horizonte;acessibilidade;Sinalização acessível desgastada;Terminal Comunitário;11;aberta;
+011;Vila Esperança;limpeza;Resíduos acumulados próximo ao jardim;Jardim das Árvores;12;em_analise;
+012;Jardim Horizonte;conservacao;Equipamento de ginástica com peça solta;Praça do Encontro;13;em_analise;
+013;Vila Esperança;;Descrição sem categoria propositalmente inválida;Praça Fictícia;14;aberta;

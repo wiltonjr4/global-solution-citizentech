@@ -1,0 +1,12 @@
+id;dia_evento;status_anterior;status_novo;observacao
+001;4;aberta;em_analise;Triagem simulada registrada
+002;5;aberta;em_analise;Avaliação simulada da rampa
+004;7;aberta;em_analise;Vistoria simulada
+006;10;aberta;em_analise;Avaliação inicial simulada
+007;11;aberta;em_analise;Triagem da limpeza simulada
+009;14;aberta;em_analise;Verificação da luminária simulada
+002;15;em_analise;concluida;Conclusão fictícia da solicitação
+011;16;aberta;em_analise;Registro encaminhado para análise
+012;17;aberta;em_analise;Avaliação da estrutura simulada
+004;20;em_analise;concluida;Conservação simulada finalizada
+009;24;em_analise;concluida;Conclusão fictícia registrada

@@ -1,0 +1,35 @@
+
+Registros rejeitados na leitura (não entram nos cálculos):
+  Linha 14, ID 013: existe campo obrigatório vazio; categoria desconhecida ou ausente
+
+=== PAINEL DE INDICADORES | DADOS SIMULADOS ===
+Registros válidos: 12 | Pendentes: 9 | Dia de referência: 30
+
+Por categoria (quantidade / proporção):
+  Iluminação          3  ( 25.0%)
+  Acessibilidade      3  ( 25.0%)
+  Limpeza             3  ( 25.0%)
+  Conservação         3  ( 25.0%)
+
+Por situação (quantidade / proporção):
+  Aberta              4  ( 33.3%)
+  Em análise          5  ( 41.7%)
+  Concluída           3  ( 25.0%)
+
+Matriz: linhas = categorias; colunas = aberta / em análise / concluída
+Categoria           Aberta  Análise   Concluída   Total
+Iluminação               1        1           1       3
+Acessibilidade           1        1           1       3
+Limpeza                  1        2           0       3
+Conservação              1        1           1       3
+
+Fórmulas e dados de origem:
+  Proporção (%) = (quantidade do grupo / total válido) x 100
+  Pendentes = 4 abertas + 5 em análise = 9
+  Dias até conclusão = [13, 16, 15] | Média = 14.7 dias
+  Dias pendentes no dia 30 = [29, 27, 25, 24, 23, 22, 19, 18, 17] | Média = 22.7 dias
+
+Leitura dos dados:
+  O conjunto fictício está distribuído igualmente entre as quatro categorias.
+  9 demanda(s) permanecem pendentes; isso indica necessidade de acompanhamento simulado.
+  Não representa diagnóstico real nem prazo de atendimento público.
